@@ -1,0 +1,4 @@
+google-assistant-library
+google-auth-oauthlib
+paho-mqtt
+

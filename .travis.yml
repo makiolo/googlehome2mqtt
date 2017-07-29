@@ -1,0 +1,10 @@
+language: python
+python:
+    - "2.7"
+    - "3.4"
+install:
+    # check instructions: https://developers.google.com/assistant/sdk/develop/python/run-sample
+    - pip install --upgrade --no-deps .
+    - pip install .
+script: pytest
+
