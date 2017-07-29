@@ -1,3 +1,2 @@
-# broadlink2mqtt
-Use your Broadlink RM Pro via MQTT
-
+# googlehome2mqtt
+Convert Google Home voice commands in MQTT messages
